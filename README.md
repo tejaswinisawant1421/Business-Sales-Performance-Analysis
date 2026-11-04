@@ -73,5 +73,3 @@ Explores regional sales distribution and customer segment performance.
 ## Project Outcome
 
 Developed an interactive Power BI dashboard that transforms retail sales data into meaningful business insights and supports data-driven decision-making.
-
-GitHub: [tejaswinisawant1421](https://github.com/tejaswinisawant1421)
